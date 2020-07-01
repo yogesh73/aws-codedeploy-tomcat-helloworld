@@ -2,4 +2,4 @@
 
 set -e
 
-rm -fr /usr/share/tomcat8/webapps/*
+rm -fr /opt/tomcat/webapps/Vi*
