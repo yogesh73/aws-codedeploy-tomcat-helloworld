@@ -15,4 +15,4 @@ hooks:
       timeout: 300
       runas: root
   ValidateService:
-    - location: validate_application_is_running.sh
+    - location: scripts/validate_application_is_running.sh
