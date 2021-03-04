@@ -15,4 +15,4 @@ hooks:
       timeout: 300
       runas: root
   ValidateService:
-    - location: scripts/validate_tomcat_is_running.sh
+    - location: validate_application_is_running.sh
